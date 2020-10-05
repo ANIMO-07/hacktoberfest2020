@@ -1,6 +1,6 @@
 Sorry, this repo has been closed for being misused by non first-timers to get easy PRs
 in order to earn the free Hacktoberfest Tshirt. This was originally created to teach 
-IIT Mandi students how GitHub works and help them lear the basics. That purpose has
+IIT Mandi students how GitHub works and help them learn the basics. That purpose has
 been served and any new PRs might get declined. I hope you continue to work for
 open source though and the readme.md file shall remain for people who might find the 
 mentioned links useful. Thanks, Wakanda Forever.
