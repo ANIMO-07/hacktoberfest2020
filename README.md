@@ -1,9 +1,9 @@
-# hacktoberfest2020
-Get started with hacktoberfest and make your first PR here
-
-Simply add your full name and the link to your github profile to Participants.txt 
-and maybe checkout the other people who've added their names and the open source
-contributions they've made so far by visiting their profiles.
+Sorry, this repo has been closed for being misused by non first-timers to get easy PRs
+in order to earn the free Hacktoberfest Tshirt. This was originally created to teach 
+IIT Mandi students how GitHub works and help them lear the basics. That purpose has
+been served and any new PRs might get declined. I hope you continue to work for
+open source though and the readme.md file shall remain for people who might find the 
+mentioned links useful. Thanks, Wakanda Forever.
 
 .
 
