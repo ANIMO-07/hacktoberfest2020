@@ -1,3 +1,5 @@
+# hacktoberfest2020
+
 Sorry, this repo has been closed for being misused by non first-timers to get easy PRs
 in order to earn the free Hacktoberfest Tshirt. This was originally created to teach 
 IIT Mandi students how GitHub works and help them learn the basics. That purpose has
